@@ -8,11 +8,11 @@ This is a Google Chrome Extension which blocks social media sites while your wor
 
    - clone this repo `git clone https://github.com/Saiful-Islam45/chrome-extension.git`
 
-   - Now go to *[chrome extention](`chrome://extensions/)
+   - Now go to chrome extention `chrome://extensions/`
    - Enable developers mood from top right corner.
    - Then click `Load unpacked` button and upload `mainfest,json`
    - Now your chrome extension is ready to use and you can see your extension.
    - Then serach `www.youtube.com` on searchbar and see the magic.
    - You can modifed your extension by changing `popup.js` file.
 
-
+Link text Here](chrome://extensions/)
