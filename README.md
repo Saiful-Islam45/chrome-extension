@@ -6,7 +6,7 @@ This is a Google Chrome Extension which blocks social media sites while your wor
 ## How to add Social-Media-Blocks-Extension
 
 
-   - clone this repo `git clone `
+   - clone this repo `git clone https://github.com/Saiful-Islam45/chrome-extension.git`
 
    - Now go to *[chrome extention](`chrome://extensions/)
    - Enable developers mood from top right corner.
